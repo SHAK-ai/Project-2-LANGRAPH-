@@ -949,6 +949,7 @@ dependencies = [
     { name = "fastapi", extra = ["standard"] },
     { name = "langchain-core" },
     { name = "langchain-openai" },
+    { name = "python-dotenv" },
 ]
 
 [package.metadata]
@@ -956,6 +957,7 @@ requires-dist = [
     { name = "fastapi", extras = ["standard"], specifier = ">=0.165.0" },
     { name = "langchain-core", specifier = ">=1.8.4" },
     { name = "langchain-openai", specifier = ">=1.8.5" },
+    { name = "python-dotenv", specifier = ">=1.2.4" },
 ]
 
 [[package]]

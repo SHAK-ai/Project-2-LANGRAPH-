@@ -1,0 +1,3 @@
+FASTAPI AI DEVELOPMENT TEAM 
+TO RUN TYPE:
+uv run fastapi dev
